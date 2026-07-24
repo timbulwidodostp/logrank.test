@@ -3,7 +3,6 @@
 # IG : @olahdatasemarang_
 # Weighted log-rank test Use logrank.test (nph) With (In) R Software
 install.packages("nph")
-
 library("nph")
 # Estimation Weighted log-rank test Use logrank.test (nph) With (In) R Software
 logrank.test = read.csv("https://raw.githubusercontent.com/timbulwidodostp/logrank.test/main/logrank.test/logrank.test.csv",sep = ";")
